@@ -1,0 +1,2 @@
+class UserSerializerController < ApplicationController
+end
