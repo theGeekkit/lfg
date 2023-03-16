@@ -15,7 +15,7 @@ gem "puma", "~> 5.0"
 gem 'devise'
 gem 'devise-jwt'
 gem 'fast_jsonapi'
-gem "nokogiri", '~> 1.12', '>= 1.12.4'
+gem "nokogiri"
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"

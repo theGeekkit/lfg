@@ -201,7 +201,7 @@ DEPENDENCIES
   devise
   devise-jwt
   fast_jsonapi
-  nokogiri (~> 1.12, >= 1.12.4)
+  nokogiri
   puma (~> 5.0)
   rack-cors
   rails (~> 7.0.4, >= 7.0.4.2)
