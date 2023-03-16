@@ -201,10 +201,11 @@ DEPENDENCIES
   devise
   devise-jwt
   fast_jsonapi
+  nokogiri (~> 1.12, >= 1.12.4)
   puma (~> 5.0)
   rack-cors
   rails (~> 7.0.4, >= 7.0.4.2)
-  sqlite3 (~> 1.4)
+  sqlite3 (~> 1.6.1)
   tzinfo-data
 
 RUBY VERSION
